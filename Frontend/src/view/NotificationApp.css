@@ -1,0 +1,33 @@
+.notification-form {
+  width: 50%; 
+  margin: auto;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100vh; 
+}
+.notification-form {
+  background-color: #c7d2d7;
+  border: 1px solid #ddd; 
+  border-radius: 10px;
+}
+
+.form-header {
+  background-color: #6b8085;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.form-header h2 {
+  color: white;
+  margin-bottom: 0;
+}
+
+.btn-primary {
+  background-color: #6b8085 !important;
+}
